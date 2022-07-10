@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+/* Write your utility classes here */
+@tailwind utilities;
+
+body {
+    background: cornsilk;
+    background-image: url("./chat.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+div{
+    background-image: url("./banner_nest.jpg");
+}
+
+.cborder{
+    border: 1px solid green;
+}

@@ -1,0 +1,3643 @@
+{
+  "hash": "6455e7e5380e77365a99",
+  "version": "5.73.0",
+  "time": 4427,
+  "builtAt": 1657053843024,
+  "publicPath": "auto",
+  "outputPath": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/dist",
+  "assetsByChunkName": {
+    "main": [
+      "main.js",
+      "main.5786.css"
+    ],
+    "runtime": [
+      "runtime.js"
+    ]
+  },
+  "assets": [
+    {
+      "type": "asset",
+      "name": "098c993bce9ba4a5a042.jpg",
+      "size": 302444,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "sourceFilename": "src/banner_nest.jpg",
+        "immutable": true,
+        "contenthash": "098c993bce9ba4a5a042",
+        "size": 302444
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "main"
+      ],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [
+        179
+      ],
+      "isOverSizeLimit": true
+    },
+    {
+      "type": "asset",
+      "name": "935.js",
+      "size": 137740,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "license": "935.js.LICENSE.txt",
+          "sourceMap": "935.js.map"
+        },
+        "size": 137740
+      },
+      "chunkNames": [],
+      "chunkIdHints": [
+        "vendors"
+      ],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "sourceMap",
+          "name": "935.js.map",
+          "size": 342580,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "development": true,
+            "size": 342580
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [],
+          "auxiliaryChunkIdHints": [
+            "vendors"
+          ],
+          "related": {},
+          "chunks": [],
+          "auxiliaryChunks": [
+            935
+          ],
+          "isOverSizeLimit": false
+        },
+        {
+          "type": "license",
+          "name": "935.js.LICENSE.txt",
+          "size": 721,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "extractedComments": true,
+            "size": 721
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [],
+          "auxiliaryChunkIdHints": [],
+          "related": {},
+          "chunks": [],
+          "auxiliaryChunks": [],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        935
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "images/refer-a-business-hero-old.svg",
+      "size": 10704,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "copied": true,
+        "sourceFilename": "src/images/refer-a-business-hero-old.svg",
+        "size": 10704
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "images/refer-a-business-hero-vertical.svg",
+      "size": 10474,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "copied": true,
+        "sourceFilename": "src/images/refer-a-business-hero-vertical.svg",
+        "size": 10474
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "main.5786.css",
+      "size": 5662,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "immutable": true,
+        "contenthash": "5786",
+        "minimized": true,
+        "size": 5662
+      },
+      "chunkNames": [
+        "main"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        179
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "runtime.js",
+      "size": 1066,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "sourceMap": "runtime.js.map"
+        },
+        "size": 1066
+      },
+      "chunkNames": [
+        "runtime"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "sourceMap",
+          "name": "runtime.js.map",
+          "size": 6202,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "development": true,
+            "size": 6202
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [
+            "runtime"
+          ],
+          "auxiliaryChunkIdHints": [],
+          "related": {},
+          "chunks": [],
+          "auxiliaryChunks": [
+            666
+          ],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        666
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "main.js",
+      "size": 534,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "sourceMap": "main.js.map"
+        },
+        "size": 534
+      },
+      "chunkNames": [
+        "main"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "sourceMap",
+          "name": "main.js.map",
+          "size": 2499,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "development": true,
+            "size": 2499
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [
+            "main"
+          ],
+          "auxiliaryChunkIdHints": [],
+          "related": {},
+          "chunks": [],
+          "auxiliaryChunks": [
+            179
+          ],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        179
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "index.html",
+      "size": 298,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "size": 298
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    }
+  ],
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": false,
+      "recorded": false,
+      "size": 17245,
+      "sizes": {
+        "javascript": 1985,
+        "css/mini-extract": 15260
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "runtime"
+      ],
+      "files": [
+        "main.js",
+        "main.5786.css"
+      ],
+      "auxiliaryFiles": [
+        "098c993bce9ba4a5a042.jpg",
+        "main.js.map"
+      ],
+      "hash": "9794cf3ca237ff8405cb",
+      "childrenByOrder": {},
+      "id": 179,
+      "siblings": [
+        666,
+        935
+      ],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/esm",
+          "layer": null,
+          "size": 1985,
+          "sizes": {
+            "javascript": 1985
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js|1fd07d8d4b95a884dd1f9f5580d34e11",
+          "name": "./src/index.js + 2 modules",
+          "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 9,
+          "postOrderIndex": 9,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 752,
+          "chunks": [
+            179
+          ],
+          "assets": [
+            "098c993bce9ba4a5a042.jpg"
+          ],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./src",
+              "loc": "main",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": [],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Cannot concat with ./node_modules/react-dom/index.js: Module is not an ECMAScript module",
+            "ModuleConcatenation bailout: Cannot concat with ./node_modules/react/index.js: Module is not an ECMAScript module"
+          ],
+          "depth": 0,
+          "modules": [
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "layer": null,
+              "size": 1483,
+              "sizes": {
+                "javascript": 1483
+              },
+              "built": true,
+              "codeGenerated": false,
+              "buildTimeExecuted": false,
+              "cached": false,
+              "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "name": "./src/index.js",
+              "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "index": 0,
+              "preOrderIndex": 0,
+              "index2": 9,
+              "postOrderIndex": 9,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": null,
+              "issuerId": null,
+              "chunks": [],
+              "assets": [],
+              "reasons": [],
+              "usedExports": [],
+              "providedExports": [],
+              "optimizationBailout": [
+                "Statement (ExpressionStatement) with side effects in source code at 54:0-34"
+              ],
+              "depth": 0
+            },
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "layer": null,
+              "size": 50,
+              "sizes": {
+                "javascript": 50
+              },
+              "built": true,
+              "codeGenerated": false,
+              "buildTimeExecuted": false,
+              "cached": false,
+              "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+              "name": "./src/main.css",
+              "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+              "index": 7,
+              "preOrderIndex": 7,
+              "index2": 7,
+              "postOrderIndex": 7,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "issuerName": "./src/index.js",
+              "issuerPath": [
+                {
+                  "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+                  "name": "./src/index.js",
+                  "id": null
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": null,
+              "issuerId": null,
+              "chunks": [],
+              "assets": [
+                "098c993bce9ba4a5a042.jpg"
+              ],
+              "reasons": [
+                {
+                  "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+                  "module": "./src/index.js",
+                  "moduleName": "./src/index.js",
+                  "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+                  "resolvedModule": "./src/index.js",
+                  "type": "harmony side effect evaluation",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "./main.css",
+                  "loc": "52:0-20",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                }
+              ],
+              "usedExports": [],
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": 1
+            },
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "layer": null,
+              "size": 452,
+              "sizes": {
+                "javascript": 452
+              },
+              "built": true,
+              "codeGenerated": false,
+              "buildTimeExecuted": false,
+              "cached": false,
+              "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/component.js",
+              "name": "./src/component.js",
+              "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/component.js",
+              "index": 9,
+              "preOrderIndex": 9,
+              "index2": 8,
+              "postOrderIndex": 8,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "issuerName": "./src/index.js",
+              "issuerPath": [
+                {
+                  "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+                  "name": "./src/index.js",
+                  "id": null
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": null,
+              "issuerId": null,
+              "chunks": [],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+                  "module": "./src/index.js",
+                  "moduleName": "./src/index.js",
+                  "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+                  "resolvedModule": "./src/index.js",
+                  "type": "harmony side effect evaluation",
+                  "active": false,
+                  "explanation": "",
+                  "userRequest": "./component",
+                  "loc": "53:0-42",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                },
+                {
+                  "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+                  "module": "./src/index.js",
+                  "moduleName": "./src/index.js",
+                  "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+                  "resolvedModule": "./src/index.js",
+                  "type": "harmony import specifier",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "./component",
+                  "loc": "54:26-30",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                },
+                {
+                  "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+                  "module": "./src/index.js",
+                  "moduleName": "./src/index.js",
+                  "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+                  "resolvedModule": "./src/index.js",
+                  "type": "harmony import specifier",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "./component",
+                  "loc": "55:0-5",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                }
+              ],
+              "usedExports": [
+                "test",
+                "test1"
+              ],
+              "providedExports": [
+                "test",
+                "test1"
+              ],
+              "optimizationBailout": [],
+              "depth": 1
+            }
+          ]
+        },
+        {
+          "type": "module",
+          "moduleType": "css/mini-extract",
+          "size": 15260,
+          "sizes": {
+            "css/mini-extract": 15260
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "css|/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css|0",
+          "name": "css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "index": 8,
+          "preOrderIndex": 8,
+          "index2": 6,
+          "postOrderIndex": 6,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "issuerName": "./src/main.css",
+          "issuerPath": [
+            {
+              "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            },
+            {
+              "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+              "name": "./src/main.css",
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": null,
+          "issuerId": null,
+          "chunks": [
+            179
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js|1fd07d8d4b95a884dd1f9f5580d34e11",
+              "module": "./src/index.js + 2 modules",
+              "moduleName": "./src/index.js + 2 modules",
+              "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+              "resolvedModule": "./src/main.css",
+              "type": "unknown",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "moduleId": 752,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+              "module": "./src/main.css",
+              "moduleName": "./src/main.css",
+              "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+              "resolvedModule": "./src/main.css",
+              "type": "unknown",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"
+          ],
+          "depth": 2
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "main",
+          "request": "./src"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 2690,
+      "sizes": {
+        "runtime": 2690
+      },
+      "names": [
+        "runtime"
+      ],
+      "idHints": [],
+      "runtime": [
+        "runtime"
+      ],
+      "files": [
+        "runtime.js"
+      ],
+      "auxiliaryFiles": [
+        "runtime.js.map"
+      ],
+      "hash": "4b75c593ed545b8b7cea",
+      "childrenByOrder": {},
+      "id": 666,
+      "siblings": [
+        179,
+        935
+      ],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 953,
+          "sizes": {
+            "runtime": 953
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/chunk loaded",
+          "name": "webpack/runtime/chunk loaded",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            666
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 103,
+          "sizes": {
+            "runtime": 103
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/hasOwnProperty shorthand",
+          "name": "webpack/runtime/hasOwnProperty shorthand",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            666
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 1634,
+          "sizes": {
+            "runtime": 1634
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/jsonp chunk loading",
+          "name": "webpack/runtime/jsonp chunk loading",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            666
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "main",
+          "request": "./src"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 144636,
+      "sizes": {
+        "javascript": 144636
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "runtime"
+      ],
+      "files": [
+        "935.js"
+      ],
+      "auxiliaryFiles": [
+        "935.js.map"
+      ],
+      "hash": "a1d6aa57195733a327ef",
+      "childrenByOrder": {},
+      "id": 935,
+      "siblings": [
+        179,
+        666
+      ],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 131737,
+          "sizes": {
+            "javascript": 131737
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/cjs/react-dom.production.min.js",
+          "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/cjs/react-dom.production.min.js",
+          "index": 4,
+          "preOrderIndex": 4,
+          "index2": 4,
+          "postOrderIndex": 4,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/index.js",
+          "issuerName": "./node_modules/react-dom/index.js",
+          "issuerPath": [
+            {
+              "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            },
+            {
+              "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/index.js",
+              "name": "./node_modules/react-dom/index.js",
+              "id": 935
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 448,
+          "issuerId": 935,
+          "chunks": [
+            935
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/index.js",
+              "module": "./node_modules/react-dom/index.js",
+              "moduleName": "./node_modules/react-dom/index.js",
+              "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/index.js",
+              "resolvedModule": "./node_modules/react-dom/index.js",
+              "type": "cjs export require",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./cjs/react-dom.production.min.js",
+              "loc": "35:2-63",
+              "moduleId": 935,
+              "resolvedModuleId": 935
+            }
+          ],
+          "usedExports": [],
+          "providedExports": [
+            "__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED",
+            "createPortal",
+            "createRoot",
+            "findDOMNode",
+            "flushSync",
+            "hydrate",
+            "hydrateRoot",
+            "render",
+            "unmountComponentAtNode",
+            "unstable_batchedUpdates",
+            "unstable_renderSubtreeIntoContainer",
+            "version"
+          ],
+          "optimizationBailout": [
+            "Statement (VariableDeclaration) with side effects in source code at 13:13-61",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 2
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 1363,
+          "sizes": {
+            "javascript": 1363
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/index.js",
+          "name": "./node_modules/react-dom/index.js",
+          "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/index.js",
+          "index": 3,
+          "preOrderIndex": 3,
+          "index2": 5,
+          "postOrderIndex": 5,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 935,
+          "issuerId": null,
+          "chunks": [
+            935
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js|1fd07d8d4b95a884dd1f9f5580d34e11",
+              "module": "./src/index.js + 2 modules",
+              "moduleName": "./src/index.js + 2 modules",
+              "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "resolvedModule": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react-dom",
+              "loc": "3:0-33",
+              "moduleId": 752,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": [
+            "__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED",
+            "createPortal",
+            "createRoot",
+            "findDOMNode",
+            "flushSync",
+            "hydrate",
+            "hydrateRoot",
+            "render",
+            "unmountComponentAtNode",
+            "unstable_batchedUpdates",
+            "unstable_renderSubtreeIntoContainer",
+            "version"
+          ],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 34:2-13",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 6913,
+          "sizes": {
+            "javascript": 6913
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react/cjs/react.production.min.js",
+          "name": "./node_modules/react/cjs/react.production.min.js",
+          "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react/cjs/react.production.min.js",
+          "index": 2,
+          "preOrderIndex": 2,
+          "index2": 0,
+          "postOrderIndex": 0,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react/index.js",
+          "issuerName": "./node_modules/react/index.js",
+          "issuerPath": [
+            {
+              "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            },
+            {
+              "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react/index.js",
+              "name": "./node_modules/react/index.js",
+              "id": 294
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 408,
+          "issuerId": 294,
+          "chunks": [
+            935
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react/index.js",
+              "module": "./node_modules/react/index.js",
+              "moduleName": "./node_modules/react/index.js",
+              "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react/index.js",
+              "resolvedModule": "./node_modules/react/index.js",
+              "type": "cjs export require",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./cjs/react.production.min.js",
+              "loc": "4:2-59",
+              "moduleId": 294,
+              "resolvedModuleId": 294
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [
+            "Children",
+            "Component",
+            "Fragment",
+            "Profiler",
+            "PureComponent",
+            "StrictMode",
+            "Suspense",
+            "__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED",
+            "cloneElement",
+            "createContext",
+            "createElement",
+            "createFactory",
+            "createRef",
+            "forwardRef",
+            "isValidElement",
+            "lazy",
+            "memo",
+            "startTransition",
+            "unstable_act",
+            "useCallback",
+            "useContext",
+            "useDebugValue",
+            "useDeferredValue",
+            "useEffect",
+            "useId",
+            "useImperativeHandle",
+            "useInsertionEffect",
+            "useLayoutEffect",
+            "useMemo",
+            "useReducer",
+            "useRef",
+            "useState",
+            "useSyncExternalStore",
+            "useTransition",
+            "version"
+          ],
+          "optimizationBailout": [
+            "Statement (VariableDeclaration) with side effects in source code at 10:13-370",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 2
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 190,
+          "sizes": {
+            "javascript": 190
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react/index.js",
+          "name": "./node_modules/react/index.js",
+          "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react/index.js",
+          "index": 1,
+          "preOrderIndex": 1,
+          "index2": 1,
+          "postOrderIndex": 1,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 294,
+          "issuerId": null,
+          "chunks": [
+            935
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js|1fd07d8d4b95a884dd1f9f5580d34e11",
+              "module": "./src/index.js + 2 modules",
+              "moduleName": "./src/index.js + 2 modules",
+              "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "resolvedModule": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "2:0-26",
+              "moduleId": 752,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/cjs/react-dom.production.min.js",
+              "module": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+              "moduleName": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+              "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/cjs/react-dom.production.min.js",
+              "resolvedModule": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+              "type": "cjs require",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react",
+              "loc": "13:20-36",
+              "moduleId": 448,
+              "resolvedModuleId": 448
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [
+            "Children",
+            "Component",
+            "Fragment",
+            "Profiler",
+            "PureComponent",
+            "StrictMode",
+            "Suspense",
+            "__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED",
+            "cloneElement",
+            "createContext",
+            "createElement",
+            "createFactory",
+            "createRef",
+            "forwardRef",
+            "isValidElement",
+            "lazy",
+            "memo",
+            "startTransition",
+            "unstable_act",
+            "useCallback",
+            "useContext",
+            "useDebugValue",
+            "useDeferredValue",
+            "useEffect",
+            "useId",
+            "useImperativeHandle",
+            "useInsertionEffect",
+            "useLayoutEffect",
+            "useMemo",
+            "useReducer",
+            "useRef",
+            "useState",
+            "useSyncExternalStore",
+            "useTransition",
+            "version"
+          ],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 4:2-60",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 4235,
+          "sizes": {
+            "javascript": 4235
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+          "name": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+          "index": 6,
+          "preOrderIndex": 6,
+          "index2": 2,
+          "postOrderIndex": 2,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/index.js",
+          "issuerName": "./node_modules/scheduler/index.js",
+          "issuerPath": [
+            {
+              "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            },
+            {
+              "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/index.js",
+              "name": "./node_modules/react-dom/index.js",
+              "id": 935
+            },
+            {
+              "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/cjs/react-dom.production.min.js",
+              "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+              "id": 448
+            },
+            {
+              "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/index.js",
+              "name": "./node_modules/scheduler/index.js",
+              "id": 840
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 53,
+          "issuerId": 840,
+          "chunks": [
+            935
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+              "module": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+              "moduleName": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+              "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+              "resolvedModule": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "13:227-247",
+              "moduleId": 53,
+              "resolvedModuleId": 53
+            },
+            {
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+              "module": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+              "moduleName": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+              "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+              "resolvedModule": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "14:20-40",
+              "moduleId": 53,
+              "resolvedModuleId": 53
+            },
+            {
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+              "module": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+              "moduleName": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+              "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+              "resolvedModule": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "14:85-105",
+              "moduleId": 53,
+              "resolvedModuleId": 53
+            },
+            {
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+              "module": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+              "moduleName": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+              "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+              "resolvedModule": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "14:449-469",
+              "moduleId": 53,
+              "resolvedModuleId": 53
+            },
+            {
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+              "module": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+              "moduleName": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+              "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+              "resolvedModule": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "18:56-76",
+              "moduleId": 53,
+              "resolvedModuleId": 53
+            },
+            {
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/index.js",
+              "module": "./node_modules/scheduler/index.js",
+              "moduleName": "./node_modules/scheduler/index.js",
+              "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/index.js",
+              "resolvedModule": "./node_modules/scheduler/index.js",
+              "type": "cjs export require",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./cjs/scheduler.production.min.js",
+              "loc": "4:2-63",
+              "moduleId": 840,
+              "resolvedModuleId": 840
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [
+            "unstable_IdlePriority",
+            "unstable_ImmediatePriority",
+            "unstable_LowPriority",
+            "unstable_NormalPriority",
+            "unstable_Profiling",
+            "unstable_UserBlockingPriority",
+            "unstable_cancelCallback",
+            "unstable_continueExecution",
+            "unstable_forceFrameRate",
+            "unstable_getCurrentPriorityLevel",
+            "unstable_getFirstCallbackNode",
+            "unstable_next",
+            "unstable_now",
+            "unstable_pauseExecution",
+            "unstable_requestPaint",
+            "unstable_runWithPriority",
+            "unstable_scheduleCallback",
+            "unstable_shouldYield",
+            "unstable_wrapCallback"
+          ],
+          "optimizationBailout": [
+            "CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 13:227-247",
+            "CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 14:20-40",
+            "CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 14:85-105",
+            "CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 14:449-469",
+            "CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 18:56-76",
+            "Statement (IfStatement) with side effects in source code at 11:71-284",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 4
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 198,
+          "sizes": {
+            "javascript": 198
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/index.js",
+          "name": "./node_modules/scheduler/index.js",
+          "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/index.js",
+          "index": 5,
+          "preOrderIndex": 5,
+          "index2": 3,
+          "postOrderIndex": 3,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/cjs/react-dom.production.min.js",
+          "issuerName": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "issuerPath": [
+            {
+              "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            },
+            {
+              "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/index.js",
+              "name": "./node_modules/react-dom/index.js",
+              "id": 935
+            },
+            {
+              "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/cjs/react-dom.production.min.js",
+              "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+              "id": 448
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 840,
+          "issuerId": 448,
+          "chunks": [
+            935
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/cjs/react-dom.production.min.js",
+              "module": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+              "moduleName": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+              "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/cjs/react-dom.production.min.js",
+              "resolvedModule": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+              "type": "cjs require",
+              "active": true,
+              "explanation": "",
+              "userRequest": "scheduler",
+              "loc": "13:40-60",
+              "moduleId": 448,
+              "resolvedModuleId": 448
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [
+            "unstable_IdlePriority",
+            "unstable_ImmediatePriority",
+            "unstable_LowPriority",
+            "unstable_NormalPriority",
+            "unstable_Profiling",
+            "unstable_UserBlockingPriority",
+            "unstable_cancelCallback",
+            "unstable_continueExecution",
+            "unstable_forceFrameRate",
+            "unstable_getCurrentPriorityLevel",
+            "unstable_getFirstCallbackNode",
+            "unstable_next",
+            "unstable_now",
+            "unstable_pauseExecution",
+            "unstable_requestPaint",
+            "unstable_runWithPriority",
+            "unstable_scheduleCallback",
+            "unstable_shouldYield",
+            "unstable_wrapCallback"
+          ],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 4:2-64",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 3
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "main",
+          "request": "./src"
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "type": "module",
+      "moduleType": "javascript/esm",
+      "layer": null,
+      "size": 1985,
+      "sizes": {
+        "javascript": 1985
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js|1fd07d8d4b95a884dd1f9f5580d34e11",
+      "name": "./src/index.js + 2 modules",
+      "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+      "index": 0,
+      "preOrderIndex": 0,
+      "index2": 9,
+      "postOrderIndex": 9,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 752,
+      "chunks": [
+        179
+      ],
+      "assets": [
+        "098c993bce9ba4a5a042.jpg"
+      ],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./src",
+          "loc": "main",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": [],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Cannot concat with ./node_modules/react-dom/index.js: Module is not an ECMAScript module",
+        "ModuleConcatenation bailout: Cannot concat with ./node_modules/react/index.js: Module is not an ECMAScript module"
+      ],
+      "depth": 0,
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 1483,
+          "sizes": {
+            "javascript": 1483
+          },
+          "built": true,
+          "codeGenerated": false,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "name": "./src/index.js",
+          "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 9,
+          "postOrderIndex": 9,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": null,
+          "issuerId": null,
+          "chunks": [],
+          "assets": [],
+          "reasons": [],
+          "usedExports": [],
+          "providedExports": [],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 54:0-34"
+          ],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 50,
+          "sizes": {
+            "javascript": 50
+          },
+          "built": true,
+          "codeGenerated": false,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "name": "./src/main.css",
+          "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "index": 7,
+          "preOrderIndex": 7,
+          "index2": 7,
+          "postOrderIndex": 7,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": null,
+          "issuerId": null,
+          "chunks": [],
+          "assets": [
+            "098c993bce9ba4a5a042.jpg"
+          ],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "resolvedModule": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./main.css",
+              "loc": "52:0-20",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 452,
+          "sizes": {
+            "javascript": 452
+          },
+          "built": true,
+          "codeGenerated": false,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/component.js",
+          "name": "./src/component.js",
+          "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/component.js",
+          "index": 9,
+          "preOrderIndex": 9,
+          "index2": 8,
+          "postOrderIndex": 8,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": null,
+          "issuerId": null,
+          "chunks": [],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "resolvedModule": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "active": false,
+              "explanation": "",
+              "userRequest": "./component",
+              "loc": "53:0-42",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "resolvedModule": "./src/index.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./component",
+              "loc": "54:26-30",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+              "resolvedModule": "./src/index.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./component",
+              "loc": "55:0-5",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [
+            "test",
+            "test1"
+          ],
+          "providedExports": [
+            "test",
+            "test1"
+          ],
+          "optimizationBailout": [],
+          "depth": 1
+        }
+      ]
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 190,
+      "sizes": {
+        "javascript": 190
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react/index.js",
+      "name": "./node_modules/react/index.js",
+      "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react/index.js",
+      "index": 1,
+      "preOrderIndex": 1,
+      "index2": 1,
+      "postOrderIndex": 1,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 294,
+      "issuerId": null,
+      "chunks": [
+        935
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js|1fd07d8d4b95a884dd1f9f5580d34e11",
+          "module": "./src/index.js + 2 modules",
+          "moduleName": "./src/index.js + 2 modules",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "resolvedModule": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "2:0-26",
+          "moduleId": 752,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/cjs/react-dom.production.min.js",
+          "module": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "moduleName": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/cjs/react-dom.production.min.js",
+          "resolvedModule": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "type": "cjs require",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react",
+          "loc": "13:20-36",
+          "moduleId": 448,
+          "resolvedModuleId": 448
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [
+        "Children",
+        "Component",
+        "Fragment",
+        "Profiler",
+        "PureComponent",
+        "StrictMode",
+        "Suspense",
+        "__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED",
+        "cloneElement",
+        "createContext",
+        "createElement",
+        "createFactory",
+        "createRef",
+        "forwardRef",
+        "isValidElement",
+        "lazy",
+        "memo",
+        "startTransition",
+        "unstable_act",
+        "useCallback",
+        "useContext",
+        "useDebugValue",
+        "useDeferredValue",
+        "useEffect",
+        "useId",
+        "useImperativeHandle",
+        "useInsertionEffect",
+        "useLayoutEffect",
+        "useMemo",
+        "useReducer",
+        "useRef",
+        "useState",
+        "useSyncExternalStore",
+        "useTransition",
+        "version"
+      ],
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 4:2-60",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 1363,
+      "sizes": {
+        "javascript": 1363
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/index.js",
+      "name": "./node_modules/react-dom/index.js",
+      "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/index.js",
+      "index": 3,
+      "preOrderIndex": 3,
+      "index2": 5,
+      "postOrderIndex": 5,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 935,
+      "issuerId": null,
+      "chunks": [
+        935
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js|1fd07d8d4b95a884dd1f9f5580d34e11",
+          "module": "./src/index.js + 2 modules",
+          "moduleName": "./src/index.js + 2 modules",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "resolvedModule": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react-dom",
+          "loc": "3:0-33",
+          "moduleId": 752,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": [
+        "__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED",
+        "createPortal",
+        "createRoot",
+        "findDOMNode",
+        "flushSync",
+        "hydrate",
+        "hydrateRoot",
+        "render",
+        "unmountComponentAtNode",
+        "unstable_batchedUpdates",
+        "unstable_renderSubtreeIntoContainer",
+        "version"
+      ],
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 34:2-13",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 50,
+      "sizes": {
+        "javascript": 50
+      },
+      "built": true,
+      "codeGenerated": false,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+      "name": "./src/main.css",
+      "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+      "index": 7,
+      "preOrderIndex": 7,
+      "index2": 7,
+      "postOrderIndex": 7,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [
+        "098c993bce9ba4a5a042.jpg"
+      ],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "resolvedModule": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./main.css",
+          "loc": "52:0-20",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 452,
+      "sizes": {
+        "javascript": 452
+      },
+      "built": true,
+      "codeGenerated": false,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/component.js",
+      "name": "./src/component.js",
+      "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/component.js",
+      "index": 9,
+      "preOrderIndex": 9,
+      "index2": 8,
+      "postOrderIndex": 8,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "resolvedModule": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "active": false,
+          "explanation": "",
+          "userRequest": "./component",
+          "loc": "53:0-42",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "resolvedModule": "./src/index.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./component",
+          "loc": "54:26-30",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "resolvedModule": "./src/index.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./component",
+          "loc": "55:0-5",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [
+        "test",
+        "test1"
+      ],
+      "providedExports": [
+        "test",
+        "test1"
+      ],
+      "optimizationBailout": [],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 6913,
+      "sizes": {
+        "javascript": 6913
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react/cjs/react.production.min.js",
+      "name": "./node_modules/react/cjs/react.production.min.js",
+      "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react/cjs/react.production.min.js",
+      "index": 2,
+      "preOrderIndex": 2,
+      "index2": 0,
+      "postOrderIndex": 0,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react/index.js",
+      "issuerName": "./node_modules/react/index.js",
+      "issuerPath": [
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        },
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react/index.js",
+          "name": "./node_modules/react/index.js",
+          "id": 294
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 408,
+      "issuerId": 294,
+      "chunks": [
+        935
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react/index.js",
+          "module": "./node_modules/react/index.js",
+          "moduleName": "./node_modules/react/index.js",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react/index.js",
+          "resolvedModule": "./node_modules/react/index.js",
+          "type": "cjs export require",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./cjs/react.production.min.js",
+          "loc": "4:2-59",
+          "moduleId": 294,
+          "resolvedModuleId": 294
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [
+        "Children",
+        "Component",
+        "Fragment",
+        "Profiler",
+        "PureComponent",
+        "StrictMode",
+        "Suspense",
+        "__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED",
+        "cloneElement",
+        "createContext",
+        "createElement",
+        "createFactory",
+        "createRef",
+        "forwardRef",
+        "isValidElement",
+        "lazy",
+        "memo",
+        "startTransition",
+        "unstable_act",
+        "useCallback",
+        "useContext",
+        "useDebugValue",
+        "useDeferredValue",
+        "useEffect",
+        "useId",
+        "useImperativeHandle",
+        "useInsertionEffect",
+        "useLayoutEffect",
+        "useMemo",
+        "useReducer",
+        "useRef",
+        "useState",
+        "useSyncExternalStore",
+        "useTransition",
+        "version"
+      ],
+      "optimizationBailout": [
+        "Statement (VariableDeclaration) with side effects in source code at 10:13-370",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 2
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 131737,
+      "sizes": {
+        "javascript": 131737
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/cjs/react-dom.production.min.js",
+      "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+      "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/cjs/react-dom.production.min.js",
+      "index": 4,
+      "preOrderIndex": 4,
+      "index2": 4,
+      "postOrderIndex": 4,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/index.js",
+      "issuerName": "./node_modules/react-dom/index.js",
+      "issuerPath": [
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        },
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/index.js",
+          "name": "./node_modules/react-dom/index.js",
+          "id": 935
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 448,
+      "issuerId": 935,
+      "chunks": [
+        935
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/index.js",
+          "module": "./node_modules/react-dom/index.js",
+          "moduleName": "./node_modules/react-dom/index.js",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/index.js",
+          "resolvedModule": "./node_modules/react-dom/index.js",
+          "type": "cjs export require",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./cjs/react-dom.production.min.js",
+          "loc": "35:2-63",
+          "moduleId": 935,
+          "resolvedModuleId": 935
+        }
+      ],
+      "usedExports": [],
+      "providedExports": [
+        "__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED",
+        "createPortal",
+        "createRoot",
+        "findDOMNode",
+        "flushSync",
+        "hydrate",
+        "hydrateRoot",
+        "render",
+        "unmountComponentAtNode",
+        "unstable_batchedUpdates",
+        "unstable_renderSubtreeIntoContainer",
+        "version"
+      ],
+      "optimizationBailout": [
+        "Statement (VariableDeclaration) with side effects in source code at 13:13-61",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 2
+    },
+    {
+      "type": "module",
+      "moduleType": "css/mini-extract",
+      "size": 15260,
+      "sizes": {
+        "css/mini-extract": 15260
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "css|/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css|0",
+      "name": "css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+      "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+      "index": 8,
+      "preOrderIndex": 8,
+      "index2": 6,
+      "postOrderIndex": 6,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+      "issuerName": "./src/main.css",
+      "issuerPath": [
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        },
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "name": "./src/main.css",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [
+        179
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js|1fd07d8d4b95a884dd1f9f5580d34e11",
+          "module": "./src/index.js + 2 modules",
+          "moduleName": "./src/index.js + 2 modules",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "resolvedModule": "./src/main.css",
+          "type": "unknown",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "moduleId": 752,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "module": "./src/main.css",
+          "moduleName": "./src/main.css",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "resolvedModule": "./src/main.css",
+          "type": "unknown",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"
+      ],
+      "depth": 2
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 198,
+      "sizes": {
+        "javascript": 198
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/index.js",
+      "name": "./node_modules/scheduler/index.js",
+      "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/index.js",
+      "index": 5,
+      "preOrderIndex": 5,
+      "index2": 3,
+      "postOrderIndex": 3,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/cjs/react-dom.production.min.js",
+      "issuerName": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+      "issuerPath": [
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        },
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/index.js",
+          "name": "./node_modules/react-dom/index.js",
+          "id": 935
+        },
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/cjs/react-dom.production.min.js",
+          "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "id": 448
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 840,
+      "issuerId": 448,
+      "chunks": [
+        935
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/cjs/react-dom.production.min.js",
+          "module": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "moduleName": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/cjs/react-dom.production.min.js",
+          "resolvedModule": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "type": "cjs require",
+          "active": true,
+          "explanation": "",
+          "userRequest": "scheduler",
+          "loc": "13:40-60",
+          "moduleId": 448,
+          "resolvedModuleId": 448
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [
+        "unstable_IdlePriority",
+        "unstable_ImmediatePriority",
+        "unstable_LowPriority",
+        "unstable_NormalPriority",
+        "unstable_Profiling",
+        "unstable_UserBlockingPriority",
+        "unstable_cancelCallback",
+        "unstable_continueExecution",
+        "unstable_forceFrameRate",
+        "unstable_getCurrentPriorityLevel",
+        "unstable_getFirstCallbackNode",
+        "unstable_next",
+        "unstable_now",
+        "unstable_pauseExecution",
+        "unstable_requestPaint",
+        "unstable_runWithPriority",
+        "unstable_scheduleCallback",
+        "unstable_shouldYield",
+        "unstable_wrapCallback"
+      ],
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 4:2-64",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 3
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 4235,
+      "sizes": {
+        "javascript": 4235
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+      "name": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+      "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+      "index": 6,
+      "preOrderIndex": 6,
+      "index2": 2,
+      "postOrderIndex": 2,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/index.js",
+      "issuerName": "./node_modules/scheduler/index.js",
+      "issuerPath": [
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        },
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/index.js",
+          "name": "./node_modules/react-dom/index.js",
+          "id": 935
+        },
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/react-dom/cjs/react-dom.production.min.js",
+          "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "id": 448
+        },
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/index.js",
+          "name": "./node_modules/scheduler/index.js",
+          "id": 840
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 53,
+      "issuerId": 840,
+      "chunks": [
+        935
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+          "module": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "moduleName": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+          "resolvedModule": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "13:227-247",
+          "moduleId": 53,
+          "resolvedModuleId": 53
+        },
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+          "module": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "moduleName": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+          "resolvedModule": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "14:20-40",
+          "moduleId": 53,
+          "resolvedModuleId": 53
+        },
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+          "module": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "moduleName": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+          "resolvedModule": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "14:85-105",
+          "moduleId": 53,
+          "resolvedModuleId": 53
+        },
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+          "module": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "moduleName": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+          "resolvedModule": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "14:449-469",
+          "moduleId": 53,
+          "resolvedModuleId": 53
+        },
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+          "module": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "moduleName": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/cjs/scheduler.production.min.js",
+          "resolvedModule": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "18:56-76",
+          "moduleId": 53,
+          "resolvedModuleId": 53
+        },
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/index.js",
+          "module": "./node_modules/scheduler/index.js",
+          "moduleName": "./node_modules/scheduler/index.js",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/scheduler/index.js",
+          "resolvedModule": "./node_modules/scheduler/index.js",
+          "type": "cjs export require",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./cjs/scheduler.production.min.js",
+          "loc": "4:2-63",
+          "moduleId": 840,
+          "resolvedModuleId": 840
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [
+        "unstable_IdlePriority",
+        "unstable_ImmediatePriority",
+        "unstable_LowPriority",
+        "unstable_NormalPriority",
+        "unstable_Profiling",
+        "unstable_UserBlockingPriority",
+        "unstable_cancelCallback",
+        "unstable_continueExecution",
+        "unstable_forceFrameRate",
+        "unstable_getCurrentPriorityLevel",
+        "unstable_getFirstCallbackNode",
+        "unstable_next",
+        "unstable_now",
+        "unstable_pauseExecution",
+        "unstable_requestPaint",
+        "unstable_runWithPriority",
+        "unstable_scheduleCallback",
+        "unstable_shouldYield",
+        "unstable_wrapCallback"
+      ],
+      "optimizationBailout": [
+        "CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 13:227-247",
+        "CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 14:20-40",
+        "CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 14:85-105",
+        "CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 14:449-469",
+        "CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 18:56-76",
+        "Statement (IfStatement) with side effects in source code at 11:71-284",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 4
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 19526,
+      "sizes": {
+        "javascript": 19526
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+      "name": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+      "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+      "issuerName": "./src/main.css",
+      "issuerPath": [
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        },
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "name": "./src/main.css",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "loader import",
+          "active": false,
+          "explanation": "",
+          "userRequest": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css.webpack[javascript/auto]!=!!!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "loc": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css.webpack[javascript/auto]!=!!!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": false,
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Statement (VariableDeclaration) with side effects in source code at 7:0-97",
+        "ModuleConcatenation bailout: Module uses module.id"
+      ],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 2318,
+      "sizes": {
+        "javascript": 2318
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/runtime/api.js",
+      "name": "./node_modules/css-loader/dist/runtime/api.js",
+      "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/runtime/api.js",
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+      "issuerName": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+      "issuerPath": [
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        },
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "name": "./src/main.css",
+          "id": null
+        },
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "name": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "module": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "moduleName": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "resolvedModule": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../node_modules/css-loader/dist/runtime/api.js",
+          "loc": "3:0-89",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "module": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "moduleName": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "resolvedModule": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../node_modules/css-loader/dist/runtime/api.js",
+          "loc": "7:30-57",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/runtime/api.js",
+          "module": "./node_modules/css-loader/dist/runtime/api.js",
+          "moduleName": "./node_modules/css-loader/dist/runtime/api.js",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/runtime/api.js",
+          "resolvedModule": "./node_modules/css-loader/dist/runtime/api.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "7:0-14",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: module.exports is used directly at 7:0-14",
+        "Statement (ExpressionStatement) with side effects in source code at 7:0-102:2",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 598,
+      "sizes": {
+        "javascript": 598
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/runtime/getUrl.js",
+      "name": "./node_modules/css-loader/dist/runtime/getUrl.js",
+      "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/runtime/getUrl.js",
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+      "issuerName": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+      "issuerPath": [
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        },
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "name": "./src/main.css",
+          "id": null
+        },
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "name": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "module": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "moduleName": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "resolvedModule": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../node_modules/css-loader/dist/runtime/getUrl.js",
+          "loc": "4:0-96",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "module": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "moduleName": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "resolvedModule": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../node_modules/css-loader/dist/runtime/getUrl.js",
+          "loc": "8:41-72",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "module": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "moduleName": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "resolvedModule": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../node_modules/css-loader/dist/runtime/getUrl.js",
+          "loc": "9:41-72",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/runtime/getUrl.js",
+          "module": "./node_modules/css-loader/dist/runtime/getUrl.js",
+          "moduleName": "./node_modules/css-loader/dist/runtime/getUrl.js",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/runtime/getUrl.js",
+          "resolvedModule": "./node_modules/css-loader/dist/runtime/getUrl.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "3:0-14",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: module.exports is used directly at 3:0-14",
+        "Statement (ExpressionStatement) with side effects in source code at 3:0-29:2",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 688,
+      "sizes": {
+        "javascript": 688
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/runtime/sourceMaps.js",
+      "name": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
+      "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/runtime/sourceMaps.js",
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+      "issuerName": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+      "issuerPath": [
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        },
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "name": "./src/main.css",
+          "id": null
+        },
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "name": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "module": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "moduleName": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "resolvedModule": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "loc": "2:0-106",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "module": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "moduleName": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "resolvedModule": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "loc": "7:58-95",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "module": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "moduleName": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "resolvedModule": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "3:0-14",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: module.exports is used directly at 3:0-14",
+        "Statement (ExpressionStatement) with side effects in source code at 3:0-22:2",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "asset",
+      "layer": null,
+      "size": 42,
+      "sizes": {
+        "javascript": 42,
+        "asset": 302444
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "asset|/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/banner_nest.jpg",
+      "name": "./src/banner_nest.jpg",
+      "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/banner_nest.jpg",
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+      "issuerName": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+      "issuerPath": [
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        },
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "name": "./src/main.css",
+          "id": null
+        },
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "name": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "module": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "moduleName": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "resolvedModule": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "type": "new URL()",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./banner_nest.jpg",
+          "loc": "6:36-81",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": false,
+      "providedExports": [],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not in any chunk"
+      ],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "asset",
+      "layer": null,
+      "size": 2029.92,
+      "sizes": {
+        "javascript": 2029.92
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "asset|/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/chat.svg",
+      "name": "./src/chat.svg",
+      "nameForCondition": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/chat.svg",
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+      "issuerName": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+      "issuerPath": [
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/babel-loader/lib/index.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        },
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "name": "./src/main.css",
+          "id": null
+        },
+        {
+          "identifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "name": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "module": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "moduleName": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "resolvedModuleIdentifier": "/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/src/main.css",
+          "resolvedModule": "./src/main.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "type": "new URL()",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./chat.svg",
+          "loc": "5:36-74",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": false,
+      "providedExports": [],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not in any chunk"
+      ],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 38,
+      "sizes": {
+        "runtime": 38
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "webpack/runtime/base uri",
+      "name": "webpack/runtime/base uri",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for BaseUriRuntimeModule"
+      ],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 953,
+      "sizes": {
+        "runtime": 953
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/chunk loaded",
+      "name": "webpack/runtime/chunk loaded",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        666
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 302,
+      "sizes": {
+        "runtime": 302
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "webpack/runtime/compat get default export",
+      "name": "webpack/runtime/compat get default export",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for CompatGetDefaultExportRuntimeModule"
+      ],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 313,
+      "sizes": {
+        "runtime": 313
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "webpack/runtime/define property getters",
+      "name": "webpack/runtime/define property getters",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for DefinePropertyGettersRuntimeModule"
+      ],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 103,
+      "sizes": {
+        "runtime": 103
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "webpack/runtime/hasOwnProperty shorthand",
+      "name": "webpack/runtime/hasOwnProperty shorthand",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for HasOwnPropertyRuntimeModule"
+      ],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 103,
+      "sizes": {
+        "runtime": 103
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/hasOwnProperty shorthand",
+      "name": "webpack/runtime/hasOwnProperty shorthand",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        666
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 1634,
+      "sizes": {
+        "runtime": 1634
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/jsonp chunk loading",
+      "name": "webpack/runtime/jsonp chunk loading",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        666
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 279,
+      "sizes": {
+        "runtime": 279
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "webpack/runtime/make namespace object",
+      "name": "webpack/runtime/make namespace object",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for MakeNamespaceObjectRuntimeModule"
+      ],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 106,
+      "sizes": {
+        "runtime": 106
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "webpack/runtime/publicPath",
+      "name": "webpack/runtime/publicPath",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for PublicPathRuntimeModule"
+      ],
+      "depth": null
+    }
+  ],
+  "entrypoints": {
+    "main": {
+      "name": "main",
+      "chunks": [
+        666,
+        935,
+        179
+      ],
+      "assets": [
+        {
+          "name": "runtime.js",
+          "size": 1066
+        },
+        {
+          "name": "935.js",
+          "size": 137740
+        },
+        {
+          "name": "main.js",
+          "size": 534
+        },
+        {
+          "name": "main.5786.css",
+          "size": 5662
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 145002,
+      "auxiliaryAssets": [
+        {
+          "name": "098c993bce9ba4a5a042.jpg",
+          "size": 302444
+        },
+        {
+          "name": "935.js.map",
+          "size": 342580
+        },
+        {
+          "name": "main.js.map",
+          "size": 2499
+        },
+        {
+          "name": "runtime.js.map",
+          "size": 6202
+        }
+      ],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 653725,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "namedChunkGroups": {
+    "main": {
+      "name": "main",
+      "chunks": [
+        666,
+        935,
+        179
+      ],
+      "assets": [
+        {
+          "name": "runtime.js",
+          "size": 1066
+        },
+        {
+          "name": "935.js",
+          "size": 137740
+        },
+        {
+          "name": "main.js",
+          "size": 534
+        },
+        {
+          "name": "main.5786.css",
+          "size": 5662
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 145002,
+      "auxiliaryAssets": [
+        {
+          "name": "098c993bce9ba4a5a042.jpg",
+          "size": 302444
+        },
+        {
+          "name": "935.js.map",
+          "size": 342580
+        },
+        {
+          "name": "main.js.map",
+          "size": 2499
+        },
+        {
+          "name": "runtime.js.map",
+          "size": 6202
+        }
+      ],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 653725,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "errors": [],
+  "errorsCount": 0,
+  "warnings": [
+    {
+      "message": "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  098c993bce9ba4a5a042.jpg (295 KiB)",
+      "stack": "AssetsOverSizeLimitWarning: asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  098c993bce9ba4a5a042.jpg (295 KiB)\n    at /Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/webpack/lib/performance/SizeLimitsPlugin.js:134:7\n    at Hook.eval [as callAsync] (eval at create (/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:9:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/tapable/lib/Hook.js:18:14)\n    at /Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/webpack/lib/Compiler.js:882:27\n    at /Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/neo-async/async.js:2818:7\n    at done (/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/neo-async/async.js:3522:9)\n    at Hook.eval [as callAsync] (eval at create (/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:6:1)\n    at /Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/webpack/lib/Compiler.js:736:33\n    at /Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/graceful-fs/graceful-fs.js:143:16\n    at /Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/graceful-fs/graceful-fs.js:61:14"
+    },
+    {
+      "message": "webpack performance recommendations: \nYou can limit the size of your bundles by using import() or require.ensure to lazy load some parts of your application.\nFor more info visit https://webpack.js.org/guides/code-splitting/",
+      "stack": "NoAsyncChunksWarning: webpack performance recommendations: \nYou can limit the size of your bundles by using import() or require.ensure to lazy load some parts of your application.\nFor more info visit https://webpack.js.org/guides/code-splitting/\n    at /Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/webpack/lib/performance/SizeLimitsPlugin.js:153:21\n    at Hook.eval [as callAsync] (eval at create (/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:9:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/tapable/lib/Hook.js:18:14)\n    at /Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/webpack/lib/Compiler.js:882:27\n    at /Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/neo-async/async.js:2818:7\n    at done (/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/neo-async/async.js:3522:9)\n    at Hook.eval [as callAsync] (eval at create (/Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:6:1)\n    at /Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/webpack/lib/Compiler.js:736:33\n    at /Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/graceful-fs/graceful-fs.js:143:16\n    at /Applications/MAMP/htdocs/Projects/Web/ooma-us/wp-content/themes/ooma/ind-projects/referral-banner/node_modules/graceful-fs/graceful-fs.js:61:14"
+    }
+  ],
+  "warningsCount": 2,
+  "children": []
+}

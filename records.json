@@ -1,0 +1,40 @@
+{
+  "chunks": {
+    "byName": {
+      "main": 179,
+      "runtime": 666
+    },
+    "bySource": {
+      "0 main": 666,
+      "1 main": 935,
+      "2 main": 179
+    },
+    "usedIds": [
+      179,
+      666,
+      935
+    ]
+  },
+  "modules": {
+    "byIdentifier": {
+      "./node_modules/babel-loader/lib/index.js!./src/index.js": 579,
+      "./node_modules/babel-loader/lib/index.js!./src/index.js|1fd07d8d4b95a884dd1f9f5580d34e11": 752,
+      "./node_modules/babel-loader/lib/index.js!./src/index.js|e051e38e2d1ed09d607ddc3f85f3cca3": 105,
+      "./node_modules/react-dom/cjs/react-dom.production.min.js": 448,
+      "./node_modules/react-dom/index.js": 935,
+      "./node_modules/react/cjs/react.production.min.js": 408,
+      "./node_modules/react/index.js": 294,
+      "./node_modules/scheduler/cjs/scheduler.production.min.js": 53,
+      "./node_modules/scheduler/index.js": 840
+    },
+    "usedIds": [
+      53,
+      105,
+      294,
+      408,
+      448,
+      840,
+      935
+    ]
+  }
+}
